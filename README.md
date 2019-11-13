@@ -36,5 +36,5 @@ allprojects {
         app:dpv_inner_color="@color/colorPrimaryDark"
         app:dpv_inner_padding="8dp"
         app:dpv_outer_color="@color/colorAccent"
-        app:dpv_thickness="2dp" />
+        app:dpv_thickness="2dp"/>
 	
