@@ -13,7 +13,7 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	
+	```
   
   
  # Step 2. Add the dependency
@@ -22,7 +22,7 @@ allprojects {
 	        implementation 'com.github.searchmanish:CustProgressView:1.0.0'
 	}
 	
-	
+	```
   
   
  ## use in Xml file
