@@ -18,14 +18,14 @@ allprojects {
 Step 2
 
  # Step 2. Add the dependency
- ```
+ 
   dependencies {
 	        implementation 'com.github.searchmanish:CustProgressView:1.0.0'
 	}
 	
-	```
+	
   
-  
+  ```
  ## use in Xml file
   ```
   <com.sama.custprogress.SamaProgressView
