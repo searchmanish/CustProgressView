@@ -1,0 +1,2 @@
+include ':app', ':custprogress'
+rootProject.name='CustProgressView'
