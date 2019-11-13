@@ -13,7 +13,7 @@ allprojects {
 			maven { url 'https://jitpack.io' }
 		}
 	}
-	```
+	
   
   
  # Step 2. Add the dependency
@@ -21,7 +21,7 @@ allprojects {
   dependencies {
 	        implementation 'com.github.searchmanish:CustProgressView:1.0.0'
 	}
-	```
+	
   
   
  ## use in Xml file
@@ -34,4 +34,4 @@ allprojects {
         app:dpv_inner_padding="8dp"
         app:dpv_outer_color="@color/colorAccent"
         app:dpv_thickness="2dp" />
-	```
+	
