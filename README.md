@@ -21,6 +21,7 @@ allprojects {
   dependencies {
 	        implementation 'com.github.searchmanish:CustProgressView:1.0.0'
 	}
+	```
 	
   
   
