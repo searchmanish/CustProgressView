@@ -15,9 +15,10 @@ allprojects {
 	}
 	```
   
-  
+Step 2
+
  # Step 2. Add the dependency
-```
+ ```
   dependencies {
 	        implementation 'com.github.searchmanish:CustProgressView:1.0.0'
 	}
